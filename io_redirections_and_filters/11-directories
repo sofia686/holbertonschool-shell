@@ -1,0 +1,2 @@
+#!/bin/bash
+find /path/to/root_dir -maxdepth 2 -mindepth 2 -type d | wc -l
